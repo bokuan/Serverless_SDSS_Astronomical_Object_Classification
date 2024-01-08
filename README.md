@@ -35,9 +35,8 @@ This README.md is for developers who want to try to quickly develop machine lear
 - [Background](#Background)
   - [Requirements](#Requirements)
   - [install](#install)
+- [Data source](#Data source)
 - [Structure](#Structure)
-  - [Iris](#Iris)
-  - [WineQuality](#WineQuality)
 - [Authors](#Authors)
 
 ## Background
