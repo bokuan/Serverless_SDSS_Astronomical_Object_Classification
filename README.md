@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://huggingface.co/spaces/bokuan/SDSS_star_classificiation">
-    <img src="https://github.com/bokuan/Serverless_SDSS_Astronomical_Object_Classification/blob/main/res/logo.jpg" alt="Logo" width="900" height="300">
+    <img src="https://github.com/bokuan/Serverless_SDSS_Astronomical_Object_Classification/blob/main/res/logo.jpg" alt="Logo" width="900" height="200">
   </a>
 
   
@@ -35,7 +35,7 @@ This README.md is for developers who want to try to quickly develop machine lear
 - [Background](#Background)
   - [Requirements](#Requirements)
   - [install](#install)
-- [Data source](#Data source)
+- [Data source](#Data%20source)
 - [Structure](#Structure)
 - [Authors](#Authors)
 
@@ -68,7 +68,7 @@ Clone the repo
 git clone https://github.com/bokuan/Serverless_SDSS_Astronomical_Object_Classification.git
 ```
 
-### Data source
+### Data%20source
 The data sources include a data lake and a data warehosue:
 
 The data lake is SDSS Data Release 17 (DR17), which is the final data release of the fourth phase of the Sloan Digital Sky Survey (SDSS-IV). DR17 contains SDSS observations through January 2021: https://www.sdss4.org/dr17/
