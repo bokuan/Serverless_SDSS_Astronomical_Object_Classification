@@ -41,7 +41,7 @@ This README.md is for developers who want to try to quickly develop machine lear
 
 ## Background
 
-In astronomy, the classification of celestial observations is a topic of major concern. In the past, the classification of celestial objects could be judged by astronomical morphology, but with the scaling up of astronomy, the image resolution is not enough to support the classification of celestial objects based on morphology. 
+In astronomy, the classification of astronomical observations is a topic of major concern. In the past, the classification of astronomical objects could be judged by astronomical morphology, but with the scaling up of astronomy, the image resolution is not enough to support the classification of celestial objects based on morphology. 
 
 Classification by the photometric characteristics of celestial objects is considered a good alternative. Spectra reveal the temperature, radiation and other physics characteristics of different types of stars through the specific wavelengths of light they emit or absorb. Redshift also provides important information about the motion characteristics of different types of objects. Therefore, by analyzing photometric characteristics machine learning algorithms can efficiently classify celestial objects in large-scaling astronomy.
 
@@ -60,6 +60,7 @@ Due to these two characteristics, local-based celestial objects classification m
 6. dataframe-image
 7. modal
 8. gradio==4.2.0
+9. pandas<2.2.0
 
 ### **install**
 Clone the repo
@@ -82,7 +83,7 @@ The data warehouse is a pre-processed fragment from SDSS-IV DR17, which contains
 
 ### Authors
 - [Tong Mo](https://github.com/Tongm56)
-- [Bokuan Li](https://github.com/bokuan)
+- Bokuan Li [Github](https://github.com/bokuan) / [Personal page](https://bokuan.li/)
 
 
 ### License
