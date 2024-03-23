@@ -16,10 +16,10 @@
   <p align="center">
     Serverless ML System
     <br />
-    <a href="https://huggingface.co/spaces/bokuan/SDSS_star_classificiation"><strong>feel free to try »</strong></a>
+    <a href="https://huggingface.co/spaces/bokuan/SDSS_Astronomical_Object_Classification"><strong>feel free to try »</strong></a>
     <br />
     <br />
-    <a href="https://huggingface.co/spaces/bokuan/SDSS_star_classificiation">Prediction app</a>
+    <a href="https://huggingface.co/spaces/bokuan/SDSS_Astronomical_Object_Classification">Prediction app</a>
     ·
     <a href="https://huggingface.co/spaces/bokuan/SDSS_star_classificiation_monitor">Monitor app</a>
     
